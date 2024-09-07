@@ -153,7 +153,7 @@ copyBtn.addEventListener('click', () => {
 })
 
 generateBtn.addEventListener('click', () => {
-    //none of the checkbox are selected
+    
 
     if(checkCount == 0) 
         return;
@@ -163,7 +163,7 @@ generateBtn.addEventListener('click', () => {
         handleSlider();
     }
 
-    // let's start the jouney to find new password
+    
     console.log("Starting the Journey");
     //remove old password
     password = "";
@@ -184,7 +184,7 @@ generateBtn.addEventListener('click', () => {
     if(symbolsCheck.checked)
         funcArr.push(generateSymbol);
 
-    //compulsory addition
+    
     for(let i=0; i<funcArr.length; i++) {
         password += funcArr[i]();
     }
