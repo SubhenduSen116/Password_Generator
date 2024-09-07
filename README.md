@@ -1,2 +1,2 @@
 # Password_Generator
-A secure and customizable password generator built with HTML, CSS, and JavaScript. This tool creates strong, unique passwords with options to include uppercase, lowercase, numbers, and special characters, enhancing your online security and protecting your digital presence.
+This tool allows you to create secure, random passwords with ease. Built with HTML, CSS, and JavaScript, it features a user-friendly interface where you can customize the password length and include options such as uppercase letters, lowercase letters, numbers, and special characters. Simply select your preferences and click the "Generate" button to receive a strong, randomly generated password, suitable for keeping your accounts safe and secure.
